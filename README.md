@@ -10,6 +10,6 @@ Criar o sistema de cadastro para os alunos, com a matricula e foto do aluno (SQL
 
 ### Plano B: Mudar o reconhecimento facial para carteirinha com código de barras.
 
-###Extra:
+### Extra:
   
 Projeto Leopard Tech 2 Criar scanner de QR CODE para visitantes. 
