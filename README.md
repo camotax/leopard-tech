@@ -9,4 +9,4 @@
 Plano B: Mudar o reconhecimento facial para carteirinha com código de barras.
 
 - Extra:
-  Projeto Leopard Tech 2 Criar scanner de QR CODE para visitantes. Inspiração:
+  Projeto Leopard Tech 2 Criar scanner de QR CODE para visitantes. 
